@@ -12,8 +12,7 @@ Evaluation Metrics: Utilizes precision, recall, F1-score, and AUC-ROC curve for 
 The project uses the Credit Card Fraud Detection Dataset, which contains anonymized features and includes both fraudulent and non-fraudulent transactions.
 
 🛠️ Installation
-Clone the repository:
-git clone https://github.com/jayantkathuria7/credit_card_fraud_detection.git
+
 Navigate to the project directory:
 cd credit_card_fraud_detection
 Install dependencies:
